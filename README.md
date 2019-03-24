@@ -1,0 +1,2 @@
+# stripes
+Interweaving stripes
